@@ -1,4 +1,4 @@
-RSA Encryption
+# RSA Encryption
 ## Description
 The following program implements the **RSA Encryption** algorithm.
 <br /> RSA Encryption is a widely used public-key cryptosystem for secure data transmission.
